@@ -1,6 +1,6 @@
 Hello! [Leadhub](https://leadhub.marketing/) is a real-time multi-channel marketing automation tool. 
 
-Our stack is based on Linux, Python, C++, MongoDB, Docker, libvirt, Salt and a lot of other open-source technologies. Here are our own open-source projects that help us be more effective.
+Our stack is based on Linux, Python, C++, Javascript, React, MongoDB, Docker, libvirt, Salt and a lot of other open-source technologies. Here are our own open-source projects that help us be more effective.
 
 [Overwatch monitoring](https://github.com/leadhub-code/overwatch-monitoring)
 ----------------------------------------------------------------------------
