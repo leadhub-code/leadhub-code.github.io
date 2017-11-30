@@ -13,6 +13,7 @@ Here are our own open-source projects that help us be more effective.
 - [github.com/leadhub-code/overwatch-web](https://github.com/leadhub-code/overwatch-web)
 - [github.com/leadhub-code/overwatch-basic-agents](https://github.com/leadhub-code/overwatch-basic-agents)
 - [github.com/leadhub-code/overwatch-mongo-agent](https://github.com/leadhub-code/overwatch-mongo-agent)
+- [github.com/leadhub-code/overwatch-demo](https://github.com/leadhub-code/overwatch-demo)
 
 
 [AWS spot runner](https://github.com/leadhub-code/spot-runner)
